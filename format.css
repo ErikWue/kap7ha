@@ -23,7 +23,7 @@ h2 {
 }
 #formular {
 	font-family:Verdana;
-	font-size:30px;
+	font-size:26px;
 	font-weight:bold;
 	background-color:#f8f8f8;
 	border-radius:20px;
@@ -33,5 +33,9 @@ h2 {
 }
 input, button {
 	font-family:Verdana;
-	font-size:30px;
+	font-size:26px;
+}
+fieldset {
+	border: none;
+}
 }

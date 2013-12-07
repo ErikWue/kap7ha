@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+h1, h2, h3, p, td, th {
+	font-family:Verdana;
+	color:#222;
+}
+h2 {
+	margin-top:50px;
+}
+#logo {
+	font-size:40px;
+	padding:10px;
+	background-color:#f8f8f8;
+	color:red;
+	border: solid 10px red;
+	}
+#header {
+	background-color:#FFFFE0;
+	border-radius:20px;
+	width:90%;
+	margin:20px auto;
+	padding:20px;
+}
+#formular {
+	font-family:Verdana;
+	font-size:30px;
+	font-weight:bold;
+	background-color:#f8f8f8;
+	border-radius:20px;
+	width:90%;
+	margin:40px auto;
+	padding:50px 20px;
+}
+input, button {
+	font-family:Verdana;
+	font-size:30px;
+}
